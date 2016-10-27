@@ -8,7 +8,7 @@ Public Class Form1
     ' test changes 2
     Private column As DevExpress.XtraGrid.Columns.GridColumn
 
-
+    ' testing 1 2 3
 
 
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
